@@ -1,0 +1,6 @@
+Revision history for Perl extension Data::Reconciliation.
+
+0.01  Wed Oct 24 11:17:19 2001
+	- original version; created by h2xs 1.20 with options
+		-n Data::Reconciliation -A -X
+
