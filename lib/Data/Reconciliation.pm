@@ -23,7 +23,7 @@ use Data::Reconciliation::Rule;
 
 require Exporter;
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
 sub new {
     my $class = shift;
